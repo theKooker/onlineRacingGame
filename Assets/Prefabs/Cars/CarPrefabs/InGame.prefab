@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3611432135941842480
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3611432135941842479}
+  - component: {fileID: 3611432135941842481}
+  - component: {fileID: 3611432135941842476}
+  m_Layer: 0
+  m_Name: InGame
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3611432135941842479
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3611432135941842480}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1077.1279, y: 616.0336, z: 17.48352}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3611432135941842481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3611432135941842480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65a6237ff770444fcad37883b30c1652, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  emojiId: -1
+--- !u!114 &3611432135941842476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3611432135941842480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ab177c1c9a3e473783cf166c2567690, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  emojieObjects:
+  - {fileID: 7840367245806753561, guid: 5c7ec124149d7453f881136f45d3db23, type: 3}
+  - {fileID: 4970544629885410315, guid: b1628d90e6b3442789b360e741e8276b, type: 3}
+  - {fileID: 2350981654140813512, guid: 1fd7a6512408a428a9cdded7c414a79b, type: 3}
+  - {fileID: 489629991831929397, guid: 2cc74576dba3c4855a2539ebace07c45, type: 3}
+  - {fileID: 6686145176417684476, guid: 08f45e60cf5e8204baa77827888019f3, type: 3}
+  currentEmoji: {fileID: 0}
+  countingText: {fileID: 0}
