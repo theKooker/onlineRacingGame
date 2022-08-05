@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 4da2a2d4170646b4e9198f06fe67c223
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d4918a55c0c3a6c40a419020b8134729
+  - enabled: 1
+    path: Assets/Scenes/Garage.unity
+    guid: c20eeed73b46d48a4b7c647dd0a01a19
+  - enabled: 1
+    path: Assets/Scenes/RandomMatch.unity
+    guid: 48f3ba4e5a4134eb2a7903ce42cb106c
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level1.unity
+    guid: e57931261e02d9445b03fdf3ade911d4
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2.unity
+    guid: 31e73afee178739409436d70fc55b6db
+  - enabled: 1
+    path: Assets/Scenes/Friends.unity
+    guid: d4cc32f263b5f4f7fab266c56f796d9f
+  - enabled: 1
+    path: Assets/Scenes/InvitationScene.unity
+    guid: ab2f69ff499df465cae24504c94414e4
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level3.unity
+    guid: 42f9920eca903b5b1875ab7f5ab8127a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level4.unity
+    guid: 7fdc68ad665eb0df79e0e1739f03b4d7
+  - enabled: 1
+    path: Assets/Scenes/CustomMatch.unity
+    guid: 5b3990a49f1c02a7b98c3074b8271594
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 4d7cf8601e3fd47bb885b9651feae237
+  - enabled: 1
+    path: Assets/Scenes/ChatScreen.unity
+    guid: 51036d07897b346ccb0a1ef45b68f8d6
+  - enabled: 1
+    path: Assets/Scenes/ProfilePicSelect.unity
+    guid: 977f4fce01e01754f94233163f5aae48
+  m_configObjects: {}
